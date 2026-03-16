@@ -2,7 +2,7 @@ class Dibs < Formula
   desc "Check if a domain name is up for grabs across 1400+ TLDs"
   homepage "https://github.com/sitapix/dibs"
   url "https://github.com/sitapix/dibs/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4784134a914d85a1d9631a2faf95a595df708ce87f03fc26cb1cabab9d29ede0"
+  sha256 "a8b7fe0522d2f5c8569cdf16247538e6036f4d96abc92b6a168694842850aa17"
   license "MIT"
   head "https://github.com/sitapix/dibs.git", branch: "main"
 
